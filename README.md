@@ -1,6 +1,6 @@
 ### Relationships between QQQ ETF Price and NASDAQ 100 Technology Stocks (Classification, Prediction)| Python
 
-In the ever-evolving landscape of financial markets, understanding the intricate relationships between individual stocks and exchange-traded funds (ETFs) is crucial for informed decision-making. This machine learning (ML) project investigates the relationships between the stock prices  companies listed on the Nasdaq 100 index and the corresponding prices of the QQQ ETF.
+In the ever-evolving landscape of financial markets, understanding the intricate relationships between individual stocks and exchange-traded funds (ETFs) is crucial for informed decision-making. This machine learning (ML) project investigates the relationships between the stock prices of companies listed on the Nasdaq 100 index and the corresponding prices of the QQQ ETF.
 ### Method:
 Sourced historical stock data from Alpaca
 Data Preprocessing:
