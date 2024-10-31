@@ -2,20 +2,19 @@
 
 In the ever-evolving landscape of financial markets, understanding the intricate relationships between individual stocks and exchange-traded funds (ETFs) is crucial for informed decision-making. This machine learning (ML) project investigates the relationships between the stock prices  companies listed on the Nasdaq 100 index and the corresponding prices of the QQQ ETF.
 ### Method:
-Source historical stock data from Alpaca
+Sourced historical stock data from Alpaca
 Data Preprocessing:
-Clean and preprocess the historical stock data.
-Handle missing values and outliers. 
-Normalize or scale the data as required.
+Cleaned and preprocessed the historical stock data. 
+Normalized or scaled the data as required.
 Feature Engineering:
-Extract relevant features for analysis.
-Explore corelations
+Extracted relevant features for analysis.
+Explored corelations
 Model Building:
-Implement a Linear Regression model to establish a baseline understanding of relationships.
-Apply Lasso Regression to identify key features and mitigate overfitting.
-Utilize PCA to mitigate overfitting and try another Linear Regression model.
-Develop KNN classification models to identify stock group prices that drive index.
-Implement Adaboost for ensemble classification.
+Implemented a Linear Regression model to establish a baseline understanding of relationships.
+Applied Lasso Regression to identify key features and mitigate overfitting.
+Utilized PCA to mitigate overfitting and tried another Linear Regression model.
+Developed KNN classification models to identify stock group prices that drove index.
+Implemented Adaboost for classification as final model.
 
 ### Results
 The project sought to find a relationship between the top 10 ten and bottom 10 technology company stocks in the NASDAQ index and their relationship to the price of the QQQ ETF.
